@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "97NE726V23.mailtemi.com",
+                "paths": [ "*", "/" ]
+            }
+        ]
+    },
+    "webcredentials": {
+      "apps": [ "97NE726V23.mailtemi.com" ]
+    }
+}
+
